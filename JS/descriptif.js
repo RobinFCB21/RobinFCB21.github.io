@@ -21,7 +21,7 @@ const listeModele = [
         "tableau1": "<table border style='border-collapse'><thead><tr><th colspan='2'>Poids</th></tr></thead><tbody><tr><td>Poids à vide en kg (UE)</td><td>1625kg</td></tr><tr><td>Poids total admissible en kg</td><td>2010kg</td></tr><tr><td>Charge utile en kg</td><td>460kg</td></tr><tr><td>Charge autorisée sur l'essieu avant/arrière en kg</td><td>970/1080kg</td></tr></tbody></table>",
         "image2": "../Images/M2-CS/BmwM2-3.jpg",
         "tableau2": "<table border style='border-collapse'><thead><tr><th colspan='2'>Moteur à combustion</th></tr></thead><tbody><tr><td>Cylindres/soupapes par cylindre</td><td>6/4</td></tr><tr><td>Cylindrée en cm³</td><td>2979</td></tr><tr><td>Puissance en kW (ch) à t/min</td><td>331 (450) /6250</td></tr></tbody></table>",
-        "image3": "../Images/M2-CS/BmwM2-CS-size.jpg",
+        "image3": "../Images/M2-CS/BMWM2-CS-size.jpg",
         "tableau3":"<table border style='border-collapse'><thead><tr><th colspan='2'>Performances</th></tr></thead><tbody><tr><td>Vitesse de pointe en km/h</td><td>280</td></tr><tr><td>Accélération de 0 à 100 km/h en s</td><td>4,2</td></tr></tbody></table>",
         "image4": "../Images/M2-CS/BmwM2.jpg",
         "tableau4":"<table border style='border-collapse'><thead><tr><th colspan='2'>Consommation</th></tr></thead><tbody><tr><td>Cycle urbain en l/100 km</td><td>14,9</td></tr><tr><td>Cycle extra-urbain en l/100 km	</td><td>7,8</td></tr><tr><td>Cycle mixte en l/100 km</td><td>10,4</td></tr><tr><td>Émissions de CO₂ en cycle mixte en g/km</td><td>238</td></tr><tr><td>Capacité (approximative) du réservoir en l</td><td>52</td></tr></tbody></table>"
