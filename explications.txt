@@ -1,0 +1,7 @@
+Afin d'afficher les caractéristiques de différents modèles de voiture j'ai choisi : 
+De mettre un menu de déroulant qui affiche un index qui vous fait des propositions de "pages"
+disponibles avec chacune un numéro attribué.
+Réelement l'utilisateur reste sur la même page sauf que ça affiche ce que l'utilisateur à selectionner
+qui à le numéro correspondant (0, 1, 2, 3, 4, 5).
+J'ai crée un dossier javascript qui servira de réfrences aux différents modèles, donc pouvoir coder
+chaque modèles de la même façon.
